@@ -1,1 +1,3 @@
-![[CLIPS.png]]
+![[CLIPS.png]][Image](attachments/CLIPS.png)
+
+
