@@ -1,0 +1,1 @@
+Ontology terms are concepts and properties.
