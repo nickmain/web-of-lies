@@ -6,35 +6,35 @@
       <description>Last 10 notes on 🕸️ Web of Lies</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Super-duper Home Page</title>
-    <link>https://hello.nickmain.com/web-of-lies/</link>
-    <guid>https://hello.nickmain.com/web-of-lies/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started. Foo Bar.</description>
-    <pubDate>Sat, 06 Jul 2024 14:30:32 GMT</pubDate>
+    <title>CLIPS Rule Engine</title>
+    <link>https://hello.nickmain.com/web-of-lies/CLIPS-Rule-Engine</link>
+    <guid>https://hello.nickmain.com/web-of-lies/CLIPS-Rule-Engine</guid>
+    <description> Image.</description>
+    <pubDate>Fri, 05 Jul 2024 04:24:45 GMT</pubDate>
   </item><item>
     <title>term</title>
     <link>https://hello.nickmain.com/web-of-lies/tags/ontology/term</link>
     <guid>https://hello.nickmain.com/web-of-lies/tags/ontology/term</guid>
     <description>Ontology terms are concepts and properties.</description>
-    <pubDate>Sat, 06 Jul 2024 14:30:32 GMT</pubDate>
-  </item><item>
-    <title>CLIPS Rule Engine</title>
-    <link>https://hello.nickmain.com/web-of-lies/CLIPS-Rule-Engine</link>
-    <guid>https://hello.nickmain.com/web-of-lies/CLIPS-Rule-Engine</guid>
-    <description> Image.</description>
-    <pubDate>Sat, 06 Jul 2024 14:30:32 GMT</pubDate>
-  </item><item>
-    <title>Foo Bar</title>
-    <link>https://hello.nickmain.com/web-of-lies/Foo-Bar</link>
-    <guid>https://hello.nickmain.com/web-of-lies/Foo-Bar</guid>
-    <description>term Back to Home Page with tags All ontology terms Tags can be hierarchical. The CLIPS Rule Engine.</description>
-    <pubDate>Sat, 06 Jul 2024 14:30:32 GMT</pubDate>
+    <pubDate>Wed, 03 Jul 2024 15:42:09 GMT</pubDate>
   </item><item>
     <title>Page with tags</title>
     <link>https://hello.nickmain.com/web-of-lies/Page-with-tags</link>
     <guid>https://hello.nickmain.com/web-of-lies/Page-with-tags</guid>
     <description>active This page has a tag. another-tag.</description>
-    <pubDate>Sat, 06 Jul 2024 14:30:32 GMT</pubDate>
+    <pubDate>Wed, 03 Jul 2024 15:12:08 GMT</pubDate>
+  </item><item>
+    <title>Foo Bar</title>
+    <link>https://hello.nickmain.com/web-of-lies/Foo-Bar</link>
+    <guid>https://hello.nickmain.com/web-of-lies/Foo-Bar</guid>
+    <description>term Back to Home Page with tags All ontology terms Tags can be hierarchical. The CLIPS Rule Engine.</description>
+    <pubDate>Wed, 03 Jul 2024 14:56:32 GMT</pubDate>
+  </item><item>
+    <title>Super-duper Home Page</title>
+    <link>https://hello.nickmain.com/web-of-lies/</link>
+    <guid>https://hello.nickmain.com/web-of-lies/</guid>
+    <description>This is a blank Quartz installation. See the documentation for how to get started. Foo Bar.</description>
+    <pubDate>Wed, 03 Jul 2024 14:50:02 GMT</pubDate>
   </item>
     </channel>
   </rss>
