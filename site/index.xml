@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🕸️ Web of Lies</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>The quick brown fox</title>
+    <link>https://hello.nickmain.com/web-of-lies/The-quick-brown-fox</link>
+    <guid>https://hello.nickmain.com/web-of-lies/The-quick-brown-fox</guid>
+    <description>Test.</description>
+    <pubDate>Sat, 06 Jul 2024 19:28:54 GMT</pubDate>
+  </item><item>
     <title>CLIPS Rule Engine</title>
     <link>https://hello.nickmain.com/web-of-lies/CLIPS-Rule-Engine</link>
     <guid>https://hello.nickmain.com/web-of-lies/CLIPS-Rule-Engine</guid>
@@ -33,7 +39,7 @@
     <title>Super-duper Home Page</title>
     <link>https://hello.nickmain.com/web-of-lies/</link>
     <guid>https://hello.nickmain.com/web-of-lies/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started. Foo Bar This is a test of the RSS feed.</description>
+    <description>This is a blank Quartz installation. See the documentation for how to get started. Foo Bar This is a test of the RSS feed - creating a new page called The quick brown fox.</description>
     <pubDate>Wed, 03 Jul 2024 14:50:02 GMT</pubDate>
   </item>
     </channel>

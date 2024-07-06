@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f0b2a86d8cf8f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The quick brown fox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "The quick brown fox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "The quick brown fox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "The quick brown fox.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "The quick brown fox.md"
               }
             }
           }
@@ -173,15 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7cfb642c0ee981e",
+  "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
+    "index.md",
+    "The quick brown fox.md",
     "CLIPS Rule Engine.md",
     "attachments/CLIPS.png",
     "attachments",
     "untitled folder",
     "CLIPS.png",
     "Foo Bar.md",
-    "index.md",
     "tags/ontology/term.md",
     "Page with tags.md",
     "tags/ontology",
