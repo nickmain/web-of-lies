@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "608f5ec608b36ebe",
+    "id": "0feacd2020bd917a",
     "type": "split",
     "children": [
       {
-        "id": "9b85474d29adb0d3",
+        "id": "a3a145fb399b8d8a",
         "type": "tabs",
         "children": [
           {
-            "id": "c7cfb642c0ee981e",
+            "id": "1f41f602ba47ea27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,35 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3f0b2a86d8cf8f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The quick brown fox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9258f251ee4cf797",
+    "id": "cda8e9f01c68959b",
     "type": "split",
     "children": [
       {
-        "id": "2bd763c8faef99ed",
+        "id": "2f0f8868cb91d064",
         "type": "tabs",
         "children": [
           {
-            "id": "2de1983d83a8833f",
+            "id": "b4208d881f5aab60",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +43,12 @@
             }
           },
           {
-            "id": "0e87ebd50dbf43cf",
+            "id": "b0d4574c12e6380d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ontology/term",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "eb8f96a462e843db",
+            "id": "008ffcd03bd07ae7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 300
   },
   "right": {
-    "id": "9b4b0513dfcd445d",
+    "id": "25b359aaca1b01c5",
     "type": "split",
     "children": [
       {
-        "id": "849b15bf4182fa86",
+        "id": "ba31f3a706ad3ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "f832825176527cb3",
+            "id": "78ff0f49949cb9c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The quick brown fox.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,63 +97,35 @@
             }
           },
           {
-            "id": "3a6d32a5dfe43a70",
+            "id": "5652a52bb3b18440",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The quick brown fox.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7970f38c7e4ba2f4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "The quick brown fox.md"
-              }
-            }
-          },
-          {
-            "id": "9332a9737e43f46f",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "9e9784ae7405ee30",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "The quick brown fox.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d00a18f3dd656c11",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0ccd9860f31cada2",
+            "id": "e1c93312c740e0e3",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0427f8a72a947db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
               }
             }
           }
@@ -186,19 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f0b2a86d8cf8f5c",
+  "active": "b4208d881f5aab60",
   "lastOpenFiles": [
-    "index.md",
     "The quick brown fox.md",
-    "CLIPS Rule Engine.md",
-    "attachments/CLIPS.png",
-    "attachments",
-    "untitled folder",
-    "CLIPS.png",
     "Foo Bar.md",
-    "tags/ontology/term.md",
-    "Page with tags.md",
-    "tags/ontology",
-    "tags"
+    "CLIPS Rule Engine.md"
   ]
 }
